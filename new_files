@@ -1,1 +1,7 @@
 This a prove for see the new files add in branch developer and how use with git flow
+1. Create a branch the name developer 
+2. Use pull origin master for bring the last changes  
+	$ git checkout developer
+	$ git pull origin master
+	$ git push origin developer  
+	
