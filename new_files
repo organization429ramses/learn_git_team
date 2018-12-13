@@ -1,4 +1,5 @@
 This a prove for see the new files add in branch developer and how use with git flow
+I need to cause a problem with this changes because i use git all time
 1. Create a branch the name developer 
 2. Use pull origin master for bring the last changes  
 	$ git checkout developer
