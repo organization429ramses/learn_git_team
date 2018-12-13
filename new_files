@@ -4,4 +4,6 @@ This a prove for see the new files add in branch developer and how use with git 
 	$ git checkout developer
 	$ git pull origin master
 	$ git push origin developer  
-	
+settings 
+require pull request reviews before merging 
+include administrators 
