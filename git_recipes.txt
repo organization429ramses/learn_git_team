@@ -59,3 +59,12 @@ $ git rm
 $ git mv
 use git log -p for show changes  
 show page 47 , 49 know the different formats for use log   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Steps for contribute in repository 
+1. Use fork in web page Github
+2. Clone the fork repo in your work space
+3. Add a upstream repo for update repo with the original repo
+3. Create new branch 
+4. Make changes 
+5. Sent your changes to fork repository 
+6. Use the tool in web page Github and create a new pull request    
